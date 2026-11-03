@@ -1,0 +1,57 @@
+{
+  "slug": "bklit-tanstack-charts",
+  "name": {
+    "en": "Bklit TanStack Charts",
+    "zh": "Bklit TanStack Charts"
+  },
+  "description": {
+    "en": "Bklit UI chart components rebuilt on TanStack Charts with identical API and motion.",
+    "zh": "基于 TanStack Charts 原生重构的 Bklit 图表库，完整保留复合组件 API 与动效质感。"
+  },
+  "url": "https://bklit-tanstack-charts-migration.vercel.app/",
+  "repo": "https://github.com/toomingos/bklit-tanstack-charts-migration",
+  "category": "data-viz",
+  "tags": [
+    "function:animation",
+    "function:chart",
+    "stack:motion",
+    "stack:react",
+    "stack:typescript",
+    "style:design-engineer"
+  ],
+  "screenshot": "bklit-tanstack-charts.webp",
+  "featured": false,
+  "status": "published",
+  "added": "2026-11-03",
+  "content": {
+    "en": "Bklit TanStack Charts is an open-source recreation of Bklit UI's chart collection natively implemented on top of TanStack Charts 1.1. Designed as compound components, it provides 25 chart families and utilities—including Candlestick, Radar, Sunburst, Choropleth, Sankey, and Live Line—preserving original visual styling, motion timing, hover dynamics, and keyboard accessibility.",
+    "zh": "Bklit TanStack Charts 是基于 TanStack Charts 1.1 原生重构的 Bklit UI 图表组件库。全库严格保持原版复合组件（Compound Component）API、视觉风格、微交互动效与无障碍键盘导航，开箱提供包括 K 线图、雷达图、旭日图、桑基图、分级统计图与实时折线等在内的 25 款现代图表及工具套件。"
+  },
+  "components": [
+    "Area Chart",
+    "Bar Chart",
+    "Bar Depth",
+    "Bar Squares",
+    "Brush",
+    "Candlestick Chart",
+    "Choropleth Map",
+    "Composed Chart",
+    "Composition",
+    "Funnel Chart",
+    "Gauge",
+    "Heatmap",
+    "Line Chart",
+    "Live Line Chart",
+    "Markers",
+    "Pattern Area",
+    "Pie Chart",
+    "Projection Chart",
+    "Radar Chart",
+    "Reference Area",
+    "Ring Chart",
+    "Sankey Diagram",
+    "Scatter Chart",
+    "Segment Chart",
+    "Sunburst Chart"
+  ]
+}
